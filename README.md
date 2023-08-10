@@ -1,4 +1,4 @@
-# PayPal USD (PYUSD)
+# PayPal USD (PYUSD) the improved version
 
 Paxos-issued USD-collateralized ERC20 stablecoin public smart contract repository.
 
